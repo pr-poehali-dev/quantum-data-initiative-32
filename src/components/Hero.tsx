@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/d98a14bf-5886-478b-a30d-b53ef7c6d1e0/files/6ed0e107-05a5-48b1-aadc-c21a26d54ca4.jpg"
-          alt="Аксессуары для курения"
+          src="https://cdn.poehali.dev/projects/d98a14bf-5886-478b-a30d-b53ef7c6d1e0/files/67423655-6a3a-4e76-96b5-65206617997b.jpg"
+          alt="Коллекция кристаллов"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-black/50" />
@@ -28,10 +28,10 @@ export default function Hero() {
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          SMOKELAB
+          CRYSTALIA
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Премиальные аксессуары для курения — трубки, кальяны, зажигалки и всё для настоящего ценителя
+          Натуральные кристаллы и минералы — аметист, розовый кварц, селенит и десятки других камней для красоты и гармонии
         </p>
         <a
           href="#catalog"

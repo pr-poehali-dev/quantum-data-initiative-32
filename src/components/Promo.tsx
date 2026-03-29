@@ -18,8 +18,8 @@ export default function Promo() {
       <div className="fixed top-[-10vh] left-0 h-[120vh] w-full">
         <motion.div style={{ y }} className="relative w-full h-full">
           <img
-            src="https://cdn.poehali.dev/projects/d98a14bf-5886-478b-a30d-b53ef7c6d1e0/files/15dc48d7-164d-40ee-87c3-304216b9e5ad.jpg"
-            alt="Дым"
+            src="https://cdn.poehali.dev/projects/d98a14bf-5886-478b-a30d-b53ef7c6d1e0/files/34579de9-9b59-4cf5-8625-326bd1bb4a6d.jpg"
+            alt="Розовый кварц"
             className="w-full h-full object-cover"
           />
         </motion.div>
@@ -30,7 +30,7 @@ export default function Promo() {
       </h3>
 
       <p className="absolute bottom-12 right-6 text-white text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-5xl z-10">
-        Более 500 позиций в наличии. Быстрая доставка, удобная упаковка и гарантия на каждый товар — мы знаем, что важно нашим клиентам.
+        Более 300 видов кристаллов в наличии. Каждый камень бережно упакован и сопровождается описанием свойств и происхождения.
       </p>
     </div>
   );
