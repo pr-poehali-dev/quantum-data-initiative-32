@@ -1,0 +1,5 @@
+{
+  "robokassa-robokassa-webhook": "https://functions.poehali.dev/2f286383-1102-48e3-8483-cb24ff8744dd",
+  "robokassa-robokassa": "https://functions.poehali.dev/b6dff91b-cfc4-47e7-84f2-96c1aeea203d",
+  "telegram-bot": "https://functions.poehali.dev/b2271841-967f-41c9-ba51-b1d7b96f9003"
+}
